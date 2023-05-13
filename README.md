@@ -1,7 +1,4 @@
-### Hi there 👋
-**Meresa16/Meresa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+### Hi there 👋 I 'm Meresa! 
 
 . 🔭 I’m currently working at Wegagen Bank as Data Analyst
 - 🌱 I’m currently learning  Data Warehouse 
