@@ -6,7 +6,7 @@ I 'm a Data Warehouse and Analyst at Wegagen Bank S.C. in Addis Ababa, Ethiopia.
 
 
 - 🔭 currently working at Wegagen Bank as Data Warehouse and Analyst 
-- 🌱 learning  Data Warehouse, Machine Learning, Deep and Big Data.
+- 🌱 learning  Data Warehouse, Machine Learning, Deep learning and Big Data.
 - 🤝 Available for freelance opportunities.
 - 📫 Reach me at: meresagidey0938@gmail.com 
 - 📄 Learn more about my experience
