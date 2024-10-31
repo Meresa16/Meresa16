@@ -1,8 +1,8 @@
 ### Hi there 👋 I 'm Meresa! 
 
-Absolutely, here’s a refined version for clarity and flow:
+Absolutely, here’s a refined my version for clarity :
 
-I'm Meresa, a Data Analyst at Wegagen Bank S.C. in Addis Ababa, Ethiopia. Previously, I worked at the Information Network Security Administration (INSA) as a Software Application Developer, Data Warehouse, and Database Developer. My tech stack included Node.js, Express.js, React.js, and MongoDB, and I am currently focused on deepening my knowledge in Data Warehousing and Data science.
+I 'm a Data Warehouse and Analyst at Wegagen Bank S.C. in Addis Ababa, Ethiopia. Previously, I worked at the Information Network Security Administration (INSA) as a Software Application Developer, Data Warehouse, and Database Developer. My tech stack included Node.js, Express.js, React.js, and MongoDB, and I am currently focused on deepening my knowledge in Data Warehousing and Data science.
 
 
 - 🔭 currently working at Wegagen Bank as Data Warehouse and Analyst 
